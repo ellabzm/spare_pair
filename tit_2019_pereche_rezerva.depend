@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626198817 source:g:\2020-2021\c++\tit_2019_pereche_rezerva\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+
